@@ -62,4 +62,4 @@ function megaFriend(friends) {
 var result = megaFriend(['Ariful Islam', 'Hridoy', 'Somrat', 'Nafis'])
 console.log(result);
 
-// Find the largest String from an array end //
+// megaFriend Function start //

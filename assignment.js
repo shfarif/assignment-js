@@ -62,4 +62,4 @@ function megaFriend(friends) {
 var result = megaFriend(['Ariful Islam', 'Hridoy', 'Somrat', 'Nafis'])
 console.log(result);
 
-// megaFriend Function start //
+// megaFriend Function End //
